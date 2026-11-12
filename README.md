@@ -65,7 +65,7 @@ This repository is intended to organize and document the different requirements 
 
 | Details | Information |
 |---|---|
-| Course Code | COM243 |
+| Course Code | CCADCML |
 | Course Title | Advanced Machine Learning |
 | Repository Type | Academic Activities Repository |
 | Main Programming Language | Python |
